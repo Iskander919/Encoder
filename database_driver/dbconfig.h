@@ -6,6 +6,6 @@
 #define DATABASE_NAME      "postgres"
 #define DATABASE_HOST_NAME "localhost"
 #define DATABASE_USER_NAME "postgres"
-#define DATABASE_PASSWORD  "eternal_islander19"
+#define DATABASE_PASSWORD  "yourpassword"
 
 #endif // DBCONFIG_H
